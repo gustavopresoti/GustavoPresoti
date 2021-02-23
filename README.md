@@ -4,10 +4,8 @@
 | 
 [![Gmail Badge](https://img.shields.io/badge/-gu.presoti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gu.presoti@gmail.com)](mailto:gu.presoti@gmail.com)
 
-Interessado em desenvolvimento de aplicações que sejam capazes de impactar a vida das pessoas
-Sou um desenvolvedor back-end em evolução :computer:
+Um entusiasta em constante evolução no desenvolvimento de aplicações
 
- :older_man: :older_woman:  &nbsp; Atualmente sou voluntário no projeto **CuidaIdoso**, do laboratório **XR4GOODLAB/UFOP**
+ :older_man: &nbsp; Desenvolvedor back-end voluntário - Projeto **CuidaIdoso**, do laboratório **XR4GOODLAB/UFOP**
  <br/> :mag: &nbsp; Buscando oportunidade de colaborar com projetos em Back-end (Node.js) ou Front-end (React)
- <br/> :computer: &nbsp; Minha stack: Node.js, ReactJS, & Typescript
- <br/> 💬  &nbsp; Sobre mim: Gosto de tecnologias, viagens e séries
+ <br/> :computer: &nbsp; Stack: Node.js, ReactJS, & Typescript
