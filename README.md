@@ -7,5 +7,5 @@
 Um entusiasta em constante evolução no desenvolvimento de aplicações
 
  :older_man: &nbsp; Desenvolvedor back-end voluntário - Projeto **CuidaIdoso**, do laboratório **XR4GOODLAB/UFOP**
- <br/> :mag: &nbsp; Buscando oportunidade de colaborar com projetos em Back-end (Node.js) ou Front-end (React)
+ <br/> :mag: &nbsp; Buscando oportunidade de colaborar com projetos em Back-end ou Front-end
  <br/> :computer: &nbsp; Stack: Node.js, ReactJS, & Typescript
